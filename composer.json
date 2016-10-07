@@ -1,0 +1,24 @@
+{
+  "name": "lorenzo-d-alipio/tbs_for_geegler",
+  "type": "library",
+  "description": "This is for the geegler simple PHP framework",
+  "keywords": ["php", "template engine"],
+  "homepage": "https://github.com/Lorenzo-D-Alipio/tbs_for_geegler",
+  "license": "MIT",
+
+  "require": {
+    "php": ">=5.4.0"
+  },
+
+  "authors": [
+  {
+    "name": "Lorenzo De Leon Alipio"
+  }
+  ],
+
+  "autoload": {
+    "classmap": ["tbs_class.php"]
+  },
+
+  "target-dir": ""
+}
