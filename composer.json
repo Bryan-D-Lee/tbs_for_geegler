@@ -17,7 +17,7 @@
   ],
 
   "autoload": {
-    "classmap": ["tbs_class.php"]
+    "classmap": ["tinybutstrong/tbs_class.php"]
   },
 
   "target-dir": ""
