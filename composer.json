@@ -1,5 +1,5 @@
 {
-  "name": "lorenzo-d-alipio/tbs_for_geegler",
+  "name": "tbs_for_geegler",
   "type": "library",
   "description": "This is for the geegler simple PHP framework",
   "keywords": ["php", "template engine"],
