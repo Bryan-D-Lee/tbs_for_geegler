@@ -1,5 +1,5 @@
 {
-  "name": "tinybutstrong/tinybutstrong",
+  "name": "tbs_for_geegler/tinybutstrong",
   "type": "library",
   "description": "This is for the geegler simple PHP framework",
   "keywords": ["php", "template engine"],
