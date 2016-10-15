@@ -3,7 +3,7 @@
   "type": "library",
   "description": "This is for the geegler simple PHP framework",
   "keywords": ["php", "template engine"],
-  "homepage": "http://www.tinybutstrong.com/",
+  "homepage": "https://github.com/Lorenzo-D-Alipio/tbs_for_geegler",
   "license": "LGPL (Lesser General Public Licence)",
 
   "require": {
