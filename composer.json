@@ -1,10 +1,10 @@
 {
-  "name": "tbs_for_geegler",
+  "name": "tinybutstrong",
   "type": "library",
   "description": "This is for the geegler simple PHP framework",
   "keywords": ["php", "template engine"],
-  "homepage": "https://github.com/Lorenzo-D-Alipio/tbs_for_geegler",
-  "license": "MIT",
+  "homepage": "http://www.tinybutstrong.com/",
+  "license": "LGPL (Lesser General Public Licence)",
 
   "require": {
     "php": ">=5.4.0"
@@ -12,7 +12,8 @@
 
   "authors": [
   {
-    "name": "Lorenzo De Leon Alipio"
+    "name": "http://www.tinybutstrong.com/onlyyou.html",
+    "role": "Developer"
   }
   ],
 
